@@ -1,97 +1,185 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Ashish Ranjan </font></h1>
+<h1 align="center">Hi 👋, I'm Ashish Ranjan</h1>
+
 <h3 align="center">
-    <font face="Arial">
-        <a href="https://www.linkedin.com/in/ashish-ranjan-4a3799266/" target="_blank" rel="noreferrer">Ashish</a> is a passionate Data Analyst from India, with a strong background in **data analysis**, **visualization**, and **predictive modeling**. Feel free to connect for collaborations or freelance projects.
-    </font>
+Data Analyst | SQL | Power BI | Excel | Python
 </h3>
 
-<!-- GIF -->
-<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-<!-- About Me -->
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-
-- 🔭 I specialize in **Data Analysis**, **Data Visualization**, and **Business Intelligence**.
-- 📊 I’m proficient in creating dashboards, uncovering trends, and building predictive models.
-- 🌱 I’m currently learning advanced techniques in **scikit-learn**, **Power BI**, and **Tableau**.
-- 🤝 Open to collaborations on **Data Science and Business Intelligence** projects.
-- ⚡ Fun fact: **I believe data tells a story; we just need to uncover it!**
-
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-<p align="left"> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>     
-  </a> 
-    
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>     
-  </a>
-  
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>    
-  </a>
-  
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/>   
-  </a>
-  
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-  </a> 
-  
+<p align="center">
+  I work with business data to find trends, build dashboards, automate reports, and turn raw data into useful insights.
 </p>
 
-<!-- Projects Section -->
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29" /> Featured Projects:
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-ranjandataanalyst/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ashishranjan5323@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-#### 📌 [Customer Churn Analysis and Prediction](https://github.com/Ashishranjan007/Customer-Churn-Analysis-and-Prediction)
-- Analyzed customer behavior using **Python (Pandas, Matplotlib)** and created interactive dashboards in **Power BI**.
-- Built a **Random Forest Classifier** to predict churn, achieving 85% accuracy.
+---
 
-#### 📌 [Sales Performance Dashboard](https://github.com/Ashishranjan007/SQL_Music_Analysis)
-- Designed a **Power BI dashboard** to visualize sales trends, customer segmentation, and profit analysis.
-- Automated data cleaning using **SQL queries** and **Python scripts**.
+## 👨‍💻 About Me
 
-<!-- #### 📌 [Loan Default Prediction](#)
-- Predicted loan defaults using **Logistic Regression** and **XGBoost**.
-- Cleaned and processed data with **Pandas**, visualized trends using **Matplotlib**. -->
+I'm a **Data Analyst / MIS professional with 2+ years of experience** working with business and operational data.
 
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+Currently, I work in **MIS & Financial Analytics**, where I use SQL, Excel, Power BI and Python for reporting, data analysis and automation.
+
+Some of the areas I work on include:
+
+- 📊 Loan Portfolio & Financial Data Analysis
+- 📈 DPD Bucket & Collection Analysis
+- 💰 NPA & GLP Analysis
+- 🏢 Branch & Officer Performance Analysis
+- 📑 MIS Reporting & Automation
+- 📊 Power BI Dashboard Development
+- 🚚 Logistics & Route Plan Analysis
+- 🧹 Data Cleaning, Validation & Reconciliation
+
+I enjoy working with raw data, finding useful patterns and presenting the results in a way that is easy for business teams to understand.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 📊 Data Analysis
+
 <p align="left">
-    <a href="https://www.linkedin.com/in/ashish-ranjan-4a3799266/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-    </a>
-    <a href="mailto:ashishranjan5323@gmail.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" width="40" height="40"/>
-    </a>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-- 💬 Ask me about **Data Analysis, Visualization, and Machine Learning**.
-- 📫 How to reach me: **[ashishranjan5323@gmail.com](mailto:ashishranjan5323@gmail.com)**.
+### 📈 Business Intelligence
 
-<!-- Quote Section -->
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-> “Without data, you're just another person with an opinion.” – W. Edwards Deming
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-<!-- Humor Section -->
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="100%" />
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### 🔧 Other Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS%20Basics-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### MIS Executive – MIS & Financial Analytics
+**Adi Chitragupta Finance Limited | Aug 2024 – Present**
+
+- Analyze loan portfolio data using **SQL and Excel** to track repayment, delinquency and collection performance.
+- Perform **DPD bucket analysis** to understand overdue accounts and portfolio risk trends.
+- Build **Power BI dashboards** for branch and officer performance, collection efficiency, NPA and GLP analysis.
+- Automate **15+ daily MIS reports**, reducing manual reporting effort by approximately 60%.
+- Work with **100,000+ records** for data cleaning, reconciliation and validation.
+- Prepare daily, weekly and monthly MIS reports for senior management.
+
+### Data Analyst Intern
+**Spedite, India | Feb 2024 – Jul 2024**
+
+- Analyzed shipment and delivery data to monitor logistics performance.
+- Built Power BI dashboards for **delivery SLA and operational KPIs**.
+- Worked on **route plan analysis and optimization** using shipment and route data.
+- Cleaned and transformed **5,000+ records** using Python and Pandas.
+- Analyzed operational trends and performance gaps.
+
+---
+
+## 📌 Featured Projects
+
+### 🏦 Loan Portfolio Risk Analysis Dashboard
+
+**Tools:** Power BI | SQL | DAX
+
+- Analyzed **100K+ loan records** to understand portfolio and delinquency trends.
+- Performed **DPD bucket analysis** to identify overdue accounts and portfolio movement.
+- Analyzed loan behavior using credit score and delinquency history.
+- Built interactive Power BI dashboards with dynamic DAX measures.
+- Created portfolio and risk segmentation views for business analysis.
+
+🔗 **[View Project](#)**
+
+---
+
+### 📊 Business Performance Analysis
+
+**Tools:** SQL | Excel
+
+- Analyzed business data using JOINs, CTEs, GROUP BY, subqueries and window functions.
+- Studied revenue trends and regional performance.
+- Identified performance gaps across different business segments.
+- Used SQL to prepare datasets and answer business questions.
+
+🔗 **[View Project](#)**
+
+---
+
+### 🚚 Logistics & Route Plan Analysis
+
+**Tools:** Python | Pandas | Power BI
+
+- Analyzed shipment, delivery and route data.
+- Studied delivery SLA and operational performance.
+- Identified opportunities for better route planning.
+- Cleaned and transformed raw shipment data using Pandas.
+- Created visualizations to monitor logistics KPIs.
+
+🔗 **[View Project](#)**
+
+---
+
+## 📚 Currently Improving
+
+- Advanced SQL
+- Power BI & DAX
+- Data Modeling
+- Python for Data Analysis
+- Business Analytics
+- Dashboard Design
+- Advanced Excel & Automation
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ashish-ranjandataanalyst/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Ashish%20Ranjan-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ashishranjan5323@gmail.com">
+<img src="https://img.shields.io/badge/Email-ashishranjan5323%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Ashishranjan007" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Ashishranjan007-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 💡 A Quote I Like
+
+> "Without data, you're just another person with an opinion."
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me for **Data Analytics, Business Intelligence and Data-related projects**.
