@@ -10,7 +10,7 @@ Data Analyst | SQL | Power BI | Excel | Python
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-ranjandataanalyst/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashishranjananalyst/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ashishranjan5323@gmail.com">
